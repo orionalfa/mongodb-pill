@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Miguel",
+    "lastname": "Hernández",
+    "dateOfBirth": "1912",
+    "dateOfDeath": "1943",
+    "country": "Spain"
+  },
+  {
+    "name": "Chris",
+    "lastname": "Harman",
+    "dateOfBirth": "1942-11-08",
+    "dateOfDeath": "2009-11-07",
+    "country": "UK"
+  },
+  {
+    "name": "Rosa",
+    "lastname": "Luxemburg",
+    "dateOfBirth": "1871-03-05",
+    "dateOfDeath": "1919-01-15",
+    "country": "Poland"
+  }
+]
